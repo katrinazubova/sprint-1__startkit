@@ -1,0 +1,11 @@
+.place__link {
+    font-family: "Inter-Regular";
+    font-size: 18px;
+    line-height: 1.2;
+    color: white;
+    text-decoration: underline;
+}
+
+.place__link:hover {
+    opacity: 0.8;
+}

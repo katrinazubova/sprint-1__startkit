@@ -1,0 +1,16 @@
+.place {
+    margin: 0;
+    display: flex;
+    max-width: 984px;
+    margin-bottom: 80px;
+}
+
+.place:last-child {
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 670px) {
+    .place {
+        display: block;
+    }
+}

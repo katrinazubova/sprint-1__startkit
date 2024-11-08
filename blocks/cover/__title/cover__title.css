@@ -1,0 +1,12 @@
+.cover__title {
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Inter-Black";
+    font-size: 72px;
+    line-height: 1.05;
+    color: white;
+    width: 560px;
+}

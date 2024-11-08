@@ -1,0 +1,7 @@
+.place__paragraph {
+    font-family: "Inter-Regular";
+    font-size: 18px;
+    line-height: 1.63;
+    color: white;
+    max-width: 484px;
+}

@@ -1,0 +1,9 @@
+.place__title {
+    font-family: "Inter-Black";
+    font-size: 72px;
+    line-height: 1.05;
+    color: white;
+    text-align: left;
+    max-width: 420px;
+    margin: 0;
+}
