@@ -10,4 +10,4 @@
 * Git  
 * Visual Studio Code  
 
-#### Ссылка на проект:  
+#### Ссылка на проект:  https://katrinazubova.github.io/russian-travel/index.html
