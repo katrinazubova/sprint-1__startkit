@@ -1,3 +1,6 @@
+@import url('./__content/page__content.css');
+@import url('./__section/page__section.css');
+
 .page {
-    background-color: rgba(42, 44, 47, 1);
+  background: #000;
 }
