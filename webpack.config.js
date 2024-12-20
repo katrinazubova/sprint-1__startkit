@@ -16,6 +16,12 @@ module.exports = {
         port: 8080,
         open: true 
     },
+    resolve: {
+      fallback: {
+        "crypto": require.resolve("crypto-browserify"),
+        "path": require.resolve("path-browserify"),
+      }
+    },
     module: {
         rules: [ 
           {
