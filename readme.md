@@ -10,3 +10,5 @@
 ### Инструменты и среды разработки:  
 * Git  
 * Visual Studio Code 
+
+<a href="https://katrinazubova.github.io/sprint-1__startkit">Ссылка на проект</a>  
